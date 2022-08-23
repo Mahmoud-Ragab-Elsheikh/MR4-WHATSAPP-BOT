@@ -1,12 +1,8 @@
-# 𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т LATEST v8.4
+# MRE 𝖡𝖮Т 
 # ❇️ INTRODUCING 𝖭Ξ𝖴𝖱Λ𝖫 Ai v1.0
-<img src="/Cloud/PicsArt_22-04-17_16-25-53-440.png">
 
-<br>
-<center><img src="/Cloud/PicsArt_22-04-15_10-13-49-205.png"><center>
-  
- <br>
- <h1> New Features and upgrades v8.4 🛰️</h1>
+
+ <h1> New Features and upgrades </h1>
  <br>
  <br>
  🦋 Introducing Neural Ai v1.0
@@ -30,14 +26,13 @@
 
   <br>
  
-<b><h1>What is Garfield Whatsapp Bot 🐼</h1></b>
-<b>Garfield is a WhatsApp user bot by [NOIZE PROJECTS](https://github.com/Zenoixnoize) 
-and powered by [X-nodes server](https://www.npmjs.com/package/aurora-npm).
-Garfield can make your work easier and do whatever you want. You can easily install this. This is updated daily. Once you install it, it will continue to be an indispensable tool for you
+<b><h1>What is MR4 Whatsapp Bot 🐼</h1></b>
+<b>MR4 is a WhatsApp user bot by [MRE PROJECTS](https://github.com/Mahmoud-Ragab-Elsheikh)  
+MR4 can make your work easier and do whatever you want. You can easily install this. This is updated daily. Once you install it, it will continue to be an indispensable tool for you
 Contains over 200+ plugins. This will give you a better experience on WhatsApp. You can download songs and videos fast. This is updated daily so more features are always added
 .This allows you to have fun with friends<b>
  
-  <img src="/Cloud/PicsArt_22-04-17_17-34-37-772.png">
+  
     
   <b><h1>To scan the Qr code and Link 🔗 to WhatsApp Multi Device (24×7 Hour Bot) 🛰️</b></h1>
   
@@ -76,9 +71,8 @@ You can use it without any hesitation
 <br>
    <br>
    <br>
-   <h1>𝖭Ξ𝖴𝖱Λ𝖫 ΛＩ❇️</h1>
+   <h1>Mahmoud R. Elsheikh</h1>
    <br>
-   <center><img src="https://i.ibb.co/TcLVfMZ/Picsart-22-08-22-15-21-41-175.png">
    <br>
      <br>
    Neural Ai is an automated program powered by a Tts engine
@@ -88,10 +82,9 @@ This can be used to make your work easier and even fun. Currently this is v1.0
    <br>
      <br>
      <br>
-     <h1>𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т</h1>
+     <h1>MR4 𝖡𝖮Т</h1>
      <br>
-  <center><img src="/Cloud/logo.png">
-    <br>
+  
    <h1>Licence 📑</h1>
     This project is protected by GNU General Public Licence v3.0 ©️ Copyright 2022.
     <br>
@@ -110,35 +103,30 @@ Be sure to use a (.)dot at the beginning of the command  </b>
   <h1><b>Developer Notice 💌</h1></b>
 <b> - Hi 🥰 I m
       <br>
-ＮＯＩＺ Ξ
+Mahmoud R. Elsheikh
       <br>
-I am 16 years old
+I am 19 years old
       <br>
-developer... From Sri Lanka 🇱🇰
+developer... From Egypt
       <br>
 I am a Learning. Not more..
       <br>
 Also I am Student 
     </b></b>
 
-   <h1>𝗩8.4 𝗡𝗲𝘄</h1>
+   <h1> 𝗡𝗲𝘄</h1>
    <b>This has been updated to the latest 2022 npm module and Latest Whatsapp Button Version. There are 120+ plugins. Deploying is quick and easy. Download speeds and upload speeds are very fast.The speed of response has increased. Fixed some bugs. Updated daily baileys 2022 Updated</b>    
   <br>
-   <br>
-  <center><img src="/Cloud/ezgif-4-e173d31b67.gif"></center>
-  <br>
+ 
   
-    
-    
-  <h1> Telegram 💡</h1>
-Join our Telegram helping group <a href="https://t.me/xnodesbot">Join Now</a>
-  <h1>Watch Video 📽️</h1>
-     Watch on Youtube <a href="https://youtu.be/OY_75SjPZSQ">Click now</a>
+   
+  <h1>YouTube Channel</h1>
+     Watch on Youtube <a href="https://www.youtube.com/channel/UCzrO7c8fRMaRFbMbxUhecHw">Click now</a>
 
    
   <br>
     <h1>Developer 🦋</h1>
-    <b><table><tr><th>Ｚ Ξ ＮＯＩ</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://i.ibb.co/MgBp0p9/Screenshot-20220707-161725.jpg" width="180"</td></tr></b>
+    <b><table><tr><th>Mahmoud R. Elsheikh</th></tr><tr><td><a href="https://github.com/Mahmoud-Ragab-Elsheikh"></td></tr></b>
 
 
 
